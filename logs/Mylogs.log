@@ -1,0 +1,28 @@
+[INFO ] 2022-04-07 12:47:39.737 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 12:47:39.739 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 12:47:39.740 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 12:47:39.740 [main] Demo_log4j - this is an warn msg
+[INFO ] 2022-04-07 12:48:07.232 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 12:48:07.235 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 12:48:07.235 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 12:48:07.235 [main] Demo_log4j - this is an warn msg
+[INFO ] 2022-04-07 12:48:27.740 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 12:48:27.742 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 12:48:27.742 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 12:48:27.742 [main] Demo_log4j - this is an warn msg
+[INFO ] 2022-04-07 12:48:39.707 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 12:48:39.709 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 12:48:39.709 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 12:48:39.709 [main] Demo_log4j - this is an warn msg
+[INFO ] 2022-04-07 12:49:28.471 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 12:49:28.473 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 12:49:28.473 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 12:49:28.473 [main] Demo_log4j - this is an warn msg
+[INFO ] 2022-04-07 12:54:07.197 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 12:54:07.199 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 12:54:07.199 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 12:54:07.199 [main] Demo_log4j - this is an warn msg
+[INFO ] 2022-04-07 16:43:19.458 [main] Demo_log4j - this is information msg
+[ERROR] 2022-04-07 16:43:19.460 [main] Demo_log4j - this is an error msg
+[FATAL] 2022-04-07 16:43:19.460 [main] Demo_log4j - this is fatal msg
+[WARN ] 2022-04-07 16:43:19.460 [main] Demo_log4j - this is an warn msg

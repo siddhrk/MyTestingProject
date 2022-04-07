@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[launched browser successed]]>
+    </line>
+    <line>
+      <![CDATA[screenshot taken for TC 1]]>
+    </line>
+    <line>
+      <![CDATA[Validated UserName]]>
+    </line>
+    <line>
+      <![CDATA[close browser successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-07T16:44:29 IST" name="Default suite" finished-at="2022-04-07T16:44:36 IST" duration-ms="6680">
+    <groups>
+    </groups>
+    <test started-at="2022-04-07T16:44:29 IST" name="Default test" finished-at="2022-04-07T16:44:36 IST" duration-ms="6680">
+      <class name="kiteAppTest.UserNameValidation">
+        <test-method is-config="true" signature="launchBrowser1()[pri:0, instance:kiteAppTest.UserNameValidation@4fb0f2b9]" started-at="2022-04-07T16:44:29 IST" name="launchBrowser1" finished-at="2022-04-07T16:44:34 IST" duration-ms="4700" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+            <line>
+              <![CDATA[launched browser successed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser1 -->
+        <test-method is-config="true" signature="loginToKiteApp()[pri:0, instance:kiteAppTest.UserNameValidation@4fb0f2b9]" started-at="2022-04-07T16:44:34 IST" name="loginToKiteApp" finished-at="2022-04-07T16:44:34 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToKiteApp -->
+        <test-method signature="validateUsername()[pri:0, instance:kiteAppTest.UserNameValidation@4fb0f2b9]" started-at="2022-04-07T16:44:34 IST" name="validateUsername" finished-at="2022-04-07T16:44:35 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[screenshot taken for TC 1]]>
+            </line>
+            <line>
+              <![CDATA[Validated UserName]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUsername -->
+        <test-method is-config="true" signature="logoutFromKite()[pri:0, instance:kiteAppTest.UserNameValidation@4fb0f2b9]" started-at="2022-04-07T16:44:35 IST" name="logoutFromKite" finished-at="2022-04-07T16:44:35 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromKite -->
+        <test-method is-config="true" signature="closeBrowser1()[pri:0, instance:kiteAppTest.UserNameValidation@4fb0f2b9]" started-at="2022-04-07T16:44:35 IST" name="closeBrowser1" finished-at="2022-04-07T16:44:36 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[close browser successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser1 -->
+      </class> <!-- kiteAppTest.UserNameValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
